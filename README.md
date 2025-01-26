@@ -58,6 +58,7 @@ stealth-pc-shopping-website/
 - **HTML**: Structure of the website.
 - **CSS**: Styling and responsive design.
 - **JavaScript**: Adding interactivity.
+- **PHP**: For Authentication and Better Security
 
 ---
 
