@@ -21,6 +21,7 @@ stealth-pc-shopping-website/
 ├── images/
 ├── FAQ.html
 ├── Login.php
+├── README.md            # Project documentation
 ├── Register.php
 ├── cart.js
 ├── checkout.html
@@ -49,7 +50,6 @@ stealth-pc-shopping-website/
 ├── src.js
 ├── student.html
 ├── support.js
-├── README.md            # Project documentation
 ```
 
 ---
