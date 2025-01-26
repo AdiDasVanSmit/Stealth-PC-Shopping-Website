@@ -15,17 +15,40 @@ Welcome to the **Stealth PC Shopping Website** repository! This mini-project is 
 ## Project Structure
 ```
 stealth-pc-shopping-website/
-├── index.html           # Home page
-├── shop.html            # Pre-built PCs page
-├── build-your-pc.html   # Custom PC building page
+├── Database/
+│   ├──shop_register.sql
 ├── css/
-│   ├── styles.css       # Stylesheet for the website
-├── js/
-│   ├── main.js          # JavaScript for interactivity
 ├── images/
-│   ├── logo.png         # Website logo
-│   ├── prebuilt/        # Images of pre-built PCs
-│   └── components/      # Images of PC components
+├── FAQ.html
+├── Login.php
+├── Register.php
+├── cart.js
+├── checkout.html
+├── con.css
+├── contact.html
+├── contact.js
+├── contact.php
+├── dis.js
+├── dot.css
+├── faqq.css
+├── forget.php
+├── gaming.html
+├── hybrid.html
+├── login.css
+├── logout.php
+├── newpc.html
+├── newpc.php
+├── pre.css-
+├── prebuilt.html
+├── rate.css
+├── rating.html
+├── register.css
+├── sc.css
+├── scr.css
+├── scroll.js
+├── src.js
+├── student.html
+├── support.js
 ├── README.md            # Project documentation
 ```
 
