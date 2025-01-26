@@ -67,11 +67,6 @@ Contributions are welcome! If you have ideas to improve the project, feel free t
 
 ---
 
-## License
-This project is open-source and available under the [MIT License](LICENSE).
-
----
-
 ## Acknowledgments
 - Inspired by the passion for custom PC building and providing users with high-quality components.
 - Thanks to the open-source community for their support and tools.
